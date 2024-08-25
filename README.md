@@ -7,3 +7,5 @@ TODO: https://magazine.sebastianraschka.com/p/understanding-and-coding-self-atte
 
 Reading List:
 https://magazine.sebastianraschka.com/
+
+Transformer Walkthrough: https://www.youtube.com/watch?v=bOYE6E8JrtU, ARENA 3.0
